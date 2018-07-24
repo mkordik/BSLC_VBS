@@ -10,7 +10,7 @@ programHang() {
 GREEN='\033[1;32m'
 RED='\033[1;31m'
 WHITE='\033[1;37m'
-intro="Welcome to the Time Machine!\n\nto begin press 1 \nto cause the machine to 'error out' press 2\nto stream hexcode repeatedly press 3\nto review the error press 4\nto exit press 9\n\nIf 3 is selected then repeatedly press any key to return to this menu.\nEnter Selection: "
+intro="Welcome to the Time Machine!\n\nTo begin press 1 \nTo cause the machine to 'error out' press 2\nTo stream hexcode repeatedly press 3\nTo review the error press 4\nTo exit press 9\n\nIf 3 is selected then repeatedly press any key to return to this menu.\nEnter Selection: "
 
 
 while true; do
